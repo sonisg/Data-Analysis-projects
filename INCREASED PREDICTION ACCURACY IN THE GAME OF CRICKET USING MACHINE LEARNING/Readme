@@ -1,0 +1,10 @@
+Player selection is one the most important tasks for any sport and cricket is no exception. 
+The performance of the players depends on various factors such as the opposition team, the venue, his current form etc. 
+The team management, the coach and the captain select 11 players for each match from a squad of 15 to 20 players. 
+They analyze different characteristics and the statistics of the players to select the best playing 11 for each match. 
+Each batsman contributes by scoring maximum runs possible and each bowler contributes by taking maximum wickets and conceding minimum runs. 
+This project attempts to predict the performance of players as how many runs will each batsman score and how many wickets will each bowler take for both the teams. 
+Both the problems are targeted as classification problems where number of runs and number of wickets are classified in different ranges. 
+We used naïve bayes, random forest and decision tree classifiers to generate the prediction models for both the problems. 
+Random Forest classifier was found to be the most accurate for both the problems. 
+ 
